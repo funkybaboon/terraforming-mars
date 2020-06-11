@@ -30,7 +30,7 @@ Additional information on how to setup the game with docker can be found [here](
 
 Thanks goes to these wonderful people:
 
-<STYLE type="text/css">
+<style type="text/css">
   .box {
     display: flex; 
     flex-wrap: wrap;
@@ -43,7 +43,7 @@ Thanks goes to these wonderful people:
     text-align: center;
     width: 200px;
   }
- </STYLE>
+ </style>
 <div class=box>
   <div class=contributor>
     <a href="https://github.com/bafolts">
