@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "funkybaboon",
+      "name": "funkybaboon",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2966599?v=4",
+      "profile": "https://github.com/funkybaboon",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "terraforming-mars",
+  "projectOwner": "funkybaboon",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
